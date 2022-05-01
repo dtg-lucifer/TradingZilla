@@ -1,0 +1,275 @@
+{
+    "allItems": [
+        {
+            "category": "Grocery",
+            "items": [
+                {
+                    "itemsId": 1111,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000,
+                        "image": "https://media.istockphoto.com/photos/different-types-of-food-on-rustic-wooden-table-picture-id861188910?k=20&m=861188910&s=612x612&w=0&h=eeswopKXQPft8lh6sjcMy7xEAYh_YRd_psZ7luHQuJk="
+                    }
+                },
+                {
+                    "itemsId": 1112,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000,
+                        "image": "https://media.istockphoto.com/photos/different-types-of-food-on-rustic-wooden-table-picture-id861188910?k=20&m=861188910&s=612x612&w=0&h=eeswopKXQPft8lh6sjcMy7xEAYh_YRd_psZ7luHQuJk="
+                    }
+                },
+                {
+                    "itemsId": 1113,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000,
+                        "image": "https://media.istockphoto.com/photos/different-types-of-food-on-rustic-wooden-table-picture-id861188910?k=20&m=861188910&s=612x612&w=0&h=eeswopKXQPft8lh6sjcMy7xEAYh_YRd_psZ7luHQuJk="
+                    }
+                },
+                {
+                    "itemsId": 1141,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000,
+                        "image": "https://media.istockphoto.com/photos/different-types-of-food-on-rustic-wooden-table-picture-id861188910?k=20&m=861188910&s=612x612&w=0&h=eeswopKXQPft8lh6sjcMy7xEAYh_YRd_psZ7luHQuJk="
+                    }
+                },
+                {
+                    "itemsId": 1161,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000,
+                        "image": "https://media.istockphoto.com/photos/different-types-of-food-on-rustic-wooden-table-picture-id861188910?k=20&m=861188910&s=612x612&w=0&h=eeswopKXQPft8lh6sjcMy7xEAYh_YRd_psZ7luHQuJk="
+                    }
+                },
+                {
+                    "itemsId": 1511,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000,
+                        "image": "https://media.istockphoto.com/photos/different-types-of-food-on-rustic-wooden-table-picture-id861188910?k=20&m=861188910&s=612x612&w=0&h=eeswopKXQPft8lh6sjcMy7xEAYh_YRd_psZ7luHQuJk="
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Stationery",
+            "items": [
+                {
+                    "itemsId": 2111,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 2311,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 14511,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11761,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11187647,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 189634411,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Fishing",
+            "items": [
+                {
+                    "itemsId": 1189731,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11132411,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 165111,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 1157411,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 1154711,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 1113451,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Food",
+            "items": [
+                {
+                    "itemsId": 1135464311,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11654611,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 123111,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11222211,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 15436436111,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 111466431,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Hardware",
+            "items": [
+                {
+                    "itemsId": 1155411,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11176761,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 1135311,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 11577411,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 1112141,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                },
+                {
+                    "itemsId": 111124121,
+                    "itemInfo": {
+                        "name": "Oil",
+                        "desc": "Vegetable oil which can be used to cook food and many more",
+                        "price": 1000
+                    }
+                }
+            ]
+        }
+    ]
+}

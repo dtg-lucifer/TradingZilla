@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .footer-icon{
+        @apply text-2xl cursor-pointer hover:text-blue-500 hover:scale-110 transition-all duration-200 ease-in-out
+    }
+}
