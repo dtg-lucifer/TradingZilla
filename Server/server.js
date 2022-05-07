@@ -1,19 +1,19 @@
 import express from "express";
 import { graphqlHTTP } from "express-graphql";
 import cors from "cors"
-import schema from "./schema/query.js";
-import root from "./root/root.js";
-import sql from "./database/config/mysql.js";
+import schema from "./middleware/schema/query.js";
+import queryResolver from "./middleware/resolvers/root.js";
 
 const app = express();
+const PORT = process.env.PORT
 
-app.use(cors({ origin: `http://localhost:${process.env.PORT || 3001}`}))
+app.use(cors({ origin: `http://localhost:${PORT || 3001}`}))
 app.use(express.json())
 app.use(
     "/graphql",
     graphqlHTTP({
         schema: schema,
-        rootValue: root,
+        rootValue: queryResolver,
         graphiql: true,
     })
 );
@@ -27,6 +27,6 @@ app.get("/", (req, res) => {
 
 app.listen(process.env.PORT || 3001, () => {
     console.log(
-        `Server : http://localhost:${process.env.PORT || 3001}\nGraphQl server : http://localhost:${process.env.PORT || 3001}/graphql`
+        `Server : http://localhost:${PORT || 3001}\nGraphQl server : http://localhost:${PORT || 3001}/graphql`
     );
 });
