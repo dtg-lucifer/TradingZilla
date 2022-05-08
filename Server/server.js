@@ -2,7 +2,7 @@ import express from "express";
 import { graphqlHTTP } from "express-graphql";
 import cors from "cors"
 import schema from "./middleware/schema/query.js";
-import queryResolver from "./middleware/resolvers/root.js";
+// import queryResolver from "./middleware/resolvers/root.js";
 
 const app = express();
 const PORT = process.env.PORT
@@ -13,7 +13,6 @@ app.use(
     "/graphql",
     graphqlHTTP({
         schema: schema,
-        rootValue: queryResolver,
         graphiql: true,
     })
 );
